@@ -14,7 +14,7 @@ function App() {
         <Canvas />
         <Utility/>
       </div>
-    </div >
+    </div>
   );
 }
 
